@@ -1,5 +1,5 @@
 # React-Dashboard portfolio project
-[DEMO](https://bitvinus.github.io/react_dashboard/)
+[DEMO](https://karamysh.github.io/react_dashboard/)
 
 <div>
 
