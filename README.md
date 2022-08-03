@@ -21,6 +21,12 @@ Training project taken from [Frontend Mentor Challenge](https://www.frontendment
 
 ### Functionality
 The application is a list of vacancies that can be filtered by skills.
+
+### To start
+1) Copy or clone project to you local folder
+2) `$npm install redux`
+3) `$npm install react-scripts@latest`
+4) `$npm start`
   </div>
   </div>
 
